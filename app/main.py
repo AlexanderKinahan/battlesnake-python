@@ -41,10 +41,13 @@ def move():
     # TODO: Do things with data
 
     return {
-        'move': 'north',
+        'move': 'east',
         'taunt': 'battlesnake-python!'
         'move': 'south', 
-    }
+    } 
+	
+  	
+  	
 
 
 @bottle.post('/end')
