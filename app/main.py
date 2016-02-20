@@ -43,7 +43,7 @@ def move():
     return {
         'move': 'east',
         'taunt': 'battlesnake-python!'
-        'move': 'south', 
+    
     } 
 	
   	
